@@ -1,0 +1,43 @@
+Epoch 1/4
+Validation Accuracy: 0.9347
+              precision    recall  f1-score   support
+
+           0       0.94      0.99      0.97       372
+           1       0.50      0.08      0.13        26
+
+    accuracy                           0.93       398
+   macro avg       0.72      0.54      0.55       398
+weighted avg       0.91      0.93      0.91       398
+
+Epoch 2/4
+Validation Accuracy: 0.9397
+              precision    recall  f1-score   support
+
+           0       0.97      0.97      0.97       372
+           1       0.54      0.54      0.54        26
+
+    accuracy                           0.94       398
+   macro avg       0.75      0.75      0.75       398
+weighted avg       0.94      0.94      0.94       398
+
+Epoch 3/4
+Validation Accuracy: 0.9296
+              precision    recall  f1-score   support
+
+           0       0.96      0.96      0.96       372
+           1       0.46      0.46      0.46        26
+
+    accuracy                           0.93       398
+   macro avg       0.71      0.71      0.71       398
+weighted avg       0.93      0.93      0.93       398
+
+Epoch 4/4
+Validation Accuracy: 0.9372
+              precision    recall  f1-score   support
+
+           0       0.96      0.97      0.97       372
+           1       0.52      0.42      0.47        26
+
+    accuracy                           0.94       398
+   macro avg       0.74      0.70      0.72       398
+weighted avg       0.93      0.94      0.93       398
